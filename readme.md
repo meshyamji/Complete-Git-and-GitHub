@@ -6,7 +6,7 @@ This repository contains my complete learning journey, practice resources, and p
 
 ## ✅ What I Learned & Practiced
 
-- Welcome & Introduction  
+- Introduction  
 - Git & GitHub Basics (Essential commands, setup, workflows)  
 - Git Terminology (Important concepts & terms)  
 - Behind the Scenes (How Git actually works under the hood)  
